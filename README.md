@@ -2,4 +2,4 @@ Aqui você encontrará a relação de todas as políticas de privacidade e termo
 
 ### Políticas de Privacidade
 
-- [Zap sem Contato](privacy-policy/zap-sem-contato.md)
+- [Zap zero Contato](privacy-policy/zap-zero-contato.md)

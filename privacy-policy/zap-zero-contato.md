@@ -1,6 +1,6 @@
 ## Política de Privacidade
 
-Esta política de privacidade se aplica ao aplicativo **Zap sem Contato** (doravante denominado "Aplicativo") para dispositivos móveis que foi criado por **Cristiano Soares** (doravante denominado "Provedor de Serviços") como um serviço Gratuito. Este serviço é destinado ao uso "COMO ESTÁ".
+Esta política de privacidade se aplica ao aplicativo **Zap zero Contato** (doravante denominado "Aplicativo") para dispositivos móveis que foi criado por **Cristiano Soares** (doravante denominado "Provedor de Serviços") como um serviço Gratuito. Este serviço é destinado ao uso "COMO ESTÁ".
 
 #### Coleta e Uso de Informações
 
@@ -52,7 +52,7 @@ Tomamos medidas técnicas e organizacionais para proteger suas informações con
 
 Esta Política de Privacidade pode ser atualizada de tempos em tempos por qualquer motivo. O Provedor de Serviços notificará você sobre quaisquer alterações na Política de Privacidade atualizando esta página com a nova Política de Privacidade. Você deve consultar esta Política de Privacidade regularmente para quaisquer alterações, pois o uso contínuo é considerado aprovação de todas as alterações.
 
-Esta política de privacidade está em vigor a partir de 01/12/2024
+Esta política de privacidade está em vigor a partir de 15/03/2025
 
 #### Seu Consentimento
 
